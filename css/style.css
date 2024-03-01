@@ -1,0 +1,15 @@
+.pantalla{
+    display: grid;
+    gap: 50px 100px;
+    grid-template-columns: auto auto auto;
+    background-color: #2196F3;
+    padding: 10px;
+}
+
+.caja{
+    background-color: #fff;
+    border: 1px solid #000;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
