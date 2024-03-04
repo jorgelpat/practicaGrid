@@ -1,5 +1,5 @@
 .pantalla{
-    display: grid;
+    display: inline-grid;  
     gap: 50px 100px;
     grid-template-columns: auto auto auto;
     background-color: #2196F3;
