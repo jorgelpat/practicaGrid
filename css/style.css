@@ -1,3 +1,5 @@
+
+
 *{
     margin: 0;
     padding: 0;
@@ -10,11 +12,11 @@
     display: grid;
     grid-template-columns: repeat(21, 1fr);
     grid-template-rows: repeat(12, 1fr);
-    width: 850px;
-    height: 600px;
+    width: 940px;
+    height: 550px;
     border-radius: 5px;
-    box-shadow: 3px 3px 5px var(--color-transparencia);
-    border: 1px solid var(--color-secundary);
+    /* box-shadow: 3px 3px 5px var(--color-transparencia);
+    border: 1px solid var(--color-secundary); */
     margin: 15px auto;
 }
 
