@@ -12,7 +12,7 @@
     display: grid;
     grid-template-columns: repeat(21, 1fr);
     grid-template-rows: repeat(12, 1fr);
-    width: 940px;
+    width: 1000px;
     height: 550px;
     border-radius: 5px;
     /* box-shadow: 3px 3px 5px var(--color-transparencia);
@@ -25,14 +25,26 @@
 }
 
 .cont1{
-    background-color: red;
+    /* background-color: red; */
     grid-column: 1/7;
     grid-row: 1/5;
+    padding-top: 30px;
+    overflow: hidden;
+}
+.cont1 img{
+    height: 178px;
+    width: 263px;
+    /* padding-top: 30px; */
 }
 .cont2{
     background-color: purple;
     grid-column: 1/4;
     grid-row: 5/8;
+    overflow: hidden;
+}
+.cont2 img{
+    width: 136px;
+    height: 131.5px;
 }
 .cont3{
     background-color: violet;
@@ -68,6 +80,11 @@
     background-color: gray;
     grid-column: 7/16;
     grid-row: 4/10;
+    overflow: hidden;
+}
+.cont9 img{
+    width: 424px;
+    height: 271px;
 }
 .cont10{
     background-color: pink;
