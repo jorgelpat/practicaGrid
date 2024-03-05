@@ -50,11 +50,21 @@
     background-color: violet;
     grid-column: 4/7;
     grid-row: 5/8;
+    overflow: hidden;
+}
+.cont3 img{
+    width: 136px;
+    height: 131.5px;
 }
 .cont4{
     background-color: yellow;
     grid-column: 1/7;
     grid-row: 8/10;
+    overflow: hidden;
+}
+.cont4 img{
+    width: 280px;
+    height: 85px;
 }
 .cont5{
     /* background-color: blue; */
