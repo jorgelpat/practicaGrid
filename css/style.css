@@ -77,7 +77,7 @@
     grid-row: 1/4;
 }
 .cont8{
-    background-color: purple;
+    /* background-color: purple; */
     grid-column: 13/16;
     grid-row: 1/4;
 }
@@ -85,7 +85,7 @@
     width: 136px;
 }
 .cont9{
-    background-color: gray;
+    /* background-color: gray; */
     grid-column: 7/16;
     grid-row: 4/10;
     overflow: hidden;
@@ -113,9 +113,14 @@
     grid-row: 10/13;
 }
 .cont13{
-    background-color: orange;
+    /* background-color: orange; */
     grid-column: 16/22;
     grid-row: 1/6;
+    overflow: hidden;
+}
+.cont13 img{
+    width: 280px;
+    height: 224.5px;
 }
 .cont14{
     background-color: green;
@@ -123,7 +128,7 @@
     grid-row: 6/8;
 }
 .cont15{
-    background-color: peru;
+    /* background-color: peru; */
     grid-column: 19/22;
     grid-row: 6/8;
     overflow: hidden;
@@ -143,7 +148,7 @@
     width: 280px;
 }
 .cont17{
-    background-color: red;
+    /* background-color: red; */
     grid-column: 16/22;
     grid-row: 10/13;
     overflow: hidden;
