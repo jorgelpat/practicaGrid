@@ -115,7 +115,7 @@
     height: 271px;
 }
 .cont10{
-    background-color: pink;
+    /* background-color: pink; */
     grid-column: 7/9;
     grid-row: 10/13;
     overflow: hidden;
@@ -192,4 +192,9 @@
 }
 .cont17 img{
     width: 280px;
+}
+
+
+@media{
+    
 }
