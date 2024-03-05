@@ -80,6 +80,11 @@
     background-color: green;
     grid-column: 5/7;
     grid-row: 10/13;
+    overflow: hidden;
+}
+.cont6 img{
+    width: 88px;
+    height: 136.5px;
 }
 .cont7{
     /* background-color: pink; */
@@ -113,19 +118,31 @@
     background-color: pink;
     grid-column: 7/9;
     grid-row: 10/13;
+    overflow: hidden;
+}
+.cont10 img{
+    width: 88px;
+    height: 131.5px;
 }
 .cont11{
     background-color: lightblue;
     grid-column: 9/14;
     grid-row: 10/13;
+    overflow: hidden;
 }
 .cont11 img{
     width: 232px;
+    height: 131.5px;
 }
 .cont12{
     background-color: blue;
     grid-column: 14/16;
     grid-row: 10/13;
+    overflow: hidden;
+}
+.cont12 img{
+    width: 88px;
+    height: 131.5px;
 }
 .cont13{
     /* background-color: orange; */
@@ -141,6 +158,11 @@
     background-color: green;
     grid-column: 16/19;
     grid-row: 6/8;
+    overflow: hidden;
+}
+.cont14 img{
+    width: 136px;
+    height: 85px;
 }
 .cont15{
     /* background-color: peru; */
