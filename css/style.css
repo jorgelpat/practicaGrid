@@ -71,22 +71,35 @@
     grid-area: MacBook Pro;
     grid-row: 3/5;
     grid-column: 1/3;
-}
-.item__3 img{
-    width: 60%;
-    height: 60%;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
+.item__3 img{
+    width: 60%;
+    height: 60%;
+    
+}
 .item__3 b, p{
-    /* display: flex;
-    justify-content: center; */
+    display: flex;
+    justify-content: center;
 }
 .item__4{
     /* background-color: green; */
     grid-area: MacBook Pro2;
     grid-row: 3/5;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* overflow: hidden; */
+}
+
+.item__4 img{
+    width: 60%;
+}
+.item__4 b, p{
+    display: flex;
+    justify-content: center;
 }
 
 @media (width < 380px){
