@@ -121,8 +121,10 @@
     overflow: hidden;
 }
 .cont9 img{
-    width: 376px;
+    width: 550px;
     height: 271px;
+    position: relative;
+    left: -87px;
 }
 .cont10{
     /* background-color: pink; */
